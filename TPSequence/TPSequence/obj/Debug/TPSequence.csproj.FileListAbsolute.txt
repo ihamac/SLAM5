@@ -1,0 +1,7 @@
+P:\ihamac\SLAM5\TPSequence\TPSequence\bin\Debug\TPSequence.exe.config
+P:\ihamac\SLAM5\TPSequence\TPSequence\bin\Debug\TPSequence.exe
+P:\ihamac\SLAM5\TPSequence\TPSequence\bin\Debug\TPSequence.pdb
+P:\ihamac\SLAM5\TPSequence\TPSequence\obj\Debug\TPSequence.csprojAssemblyReference.cache
+P:\ihamac\SLAM5\TPSequence\TPSequence\obj\Debug\TPSequence.csproj.CoreCompileInputs.cache
+P:\ihamac\SLAM5\TPSequence\TPSequence\obj\Debug\TPSequence.exe
+P:\ihamac\SLAM5\TPSequence\TPSequence\obj\Debug\TPSequence.pdb

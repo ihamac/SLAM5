@@ -1,0 +1,14 @@
+U:\si4\SLAM1\TpLapin\TpLapin\TpLapin\obj\Debug\TpLapin.csprojAssemblyReference.cache
+U:\si4\SLAM1\TpLapin\TpLapin\TpLapin\obj\Debug\TpLapin.csproj.CoreCompileInputs.cache
+U:\si4\SLAM1\TpLapin\TpLapin\TpLapin\bin\Debug\TpLapin.exe.config
+U:\si4\SLAM1\TpLapin\TpLapin\TpLapin\bin\Debug\TpLapin.exe
+U:\si4\SLAM1\TpLapin\TpLapin\TpLapin\bin\Debug\TpLapin.pdb
+U:\si4\SLAM1\TpLapin\TpLapin\TpLapin\obj\Debug\TpLapin.exe
+U:\si4\SLAM1\TpLapin\TpLapin\TpLapin\obj\Debug\TpLapin.pdb
+P:\ihamac\si4\SLAM1\TpLapin\TpLapin\TpLapin\bin\Debug\TpLapin.exe.config
+P:\ihamac\si4\SLAM1\TpLapin\TpLapin\TpLapin\bin\Debug\TpLapin.exe
+P:\ihamac\si4\SLAM1\TpLapin\TpLapin\TpLapin\bin\Debug\TpLapin.pdb
+P:\ihamac\si4\SLAM1\TpLapin\TpLapin\TpLapin\obj\Debug\TpLapin.csprojAssemblyReference.cache
+P:\ihamac\si4\SLAM1\TpLapin\TpLapin\TpLapin\obj\Debug\TpLapin.csproj.CoreCompileInputs.cache
+P:\ihamac\si4\SLAM1\TpLapin\TpLapin\TpLapin\obj\Debug\TpLapin.exe
+P:\ihamac\si4\SLAM1\TpLapin\TpLapin\TpLapin\obj\Debug\TpLapin.pdb

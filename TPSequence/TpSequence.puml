@@ -1,0 +1,28 @@
+@startuml TPResto
+->Client:Seat At Table
+Activate Client
+
+Client->Serveur:Order Food
+Deactivate Client
+Activate Serveur
+
+Serveur->Cuisinier:Order Food
+Activate Cuisinier
+
+Serveur->Client:Servir le vin
+Activate Client
+Deactivate Client
+Deactivate Serveur
+
+Cuisinier->Serveur:Pickup
+Activate Serveur 
+Deactivate Cuisinier
+
+Serveur->Client:Servir la bouffe
+Deactivate Serveur
+Activate Client
+
+Client->Caissier:Pay
+Activate Caissier
+
+@enduml

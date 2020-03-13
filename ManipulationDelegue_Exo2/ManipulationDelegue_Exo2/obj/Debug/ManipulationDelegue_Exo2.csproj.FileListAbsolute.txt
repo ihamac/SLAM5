@@ -1,0 +1,7 @@
+P:\ihamac\SLAM5\ManipulationDelegue_Exo2\ManipulationDelegue_Exo2\bin\Debug\ManipulationDelegue_Exo2.exe.config
+P:\ihamac\SLAM5\ManipulationDelegue_Exo2\ManipulationDelegue_Exo2\bin\Debug\ManipulationDelegue_Exo2.exe
+P:\ihamac\SLAM5\ManipulationDelegue_Exo2\ManipulationDelegue_Exo2\bin\Debug\ManipulationDelegue_Exo2.pdb
+P:\ihamac\SLAM5\ManipulationDelegue_Exo2\ManipulationDelegue_Exo2\obj\Debug\ManipulationDelegue_Exo2.csprojAssemblyReference.cache
+P:\ihamac\SLAM5\ManipulationDelegue_Exo2\ManipulationDelegue_Exo2\obj\Debug\ManipulationDelegue_Exo2.csproj.CoreCompileInputs.cache
+P:\ihamac\SLAM5\ManipulationDelegue_Exo2\ManipulationDelegue_Exo2\obj\Debug\ManipulationDelegue_Exo2.exe
+P:\ihamac\SLAM5\ManipulationDelegue_Exo2\ManipulationDelegue_Exo2\obj\Debug\ManipulationDelegue_Exo2.pdb

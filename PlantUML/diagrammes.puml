@@ -1,0 +1,59 @@
+@startuml Exercice 1 
+skinparam classAttributeIconSize 0
+class ordinateur {
+    -nom : string
+    -puissance : int
+    -tailleMémoire : int
+    -List<Processus>
+    +allumer()
+    +eteindre()
+}
+class Processus{
+    -<u>numero</u>
+}
+Personne "1"-->"1..*\nposseder" ordinateur
+fileDattente "1" *-->"1..*\nstocker" Processus
+ordinateur "1"*-right->"1\ngérer" fileDattente
+@enduml
+
+@startuml Exercice 2
+skinparam classAttributeIconSize 0
+class MessageElectronique{
+    -titre : string
+    -adresseDestinataire : string
+
+}
+class enTete{
+}
+class corps{
+}
+MessageElectronique"1..*"*-->"1\nposseder" enTete
+MessageElectronique"1"*-up->"1\nposseder" corps
+MessageElectronique"1..*"---->"1..*\ncontenir"pieceJointe
+@enduml
+
+@startuml Exercice 3 
+skinparam classAttributeIconSize 0
+skinparam lineType ortho
+class Pays{
+    -nom : string
+    -population : int
+    -PIB : int
+}
+class Capitale{
+    -nom : string
+}
+Pays-up->"0..*\nfrontalié"Pays
+Pays"1"<--*"1\nposseder"Capitale
+@enduml
+
+@startuml Exercice 4
+skinparam classAttributeIconSize 0
+skinparam lineType ortho
+class ListeChainée{
+    +Add(Element e)
+    +Remove(Element e)
+}
+ListeChainée-->"1"Element:Premier Element
+Element-->"1"Element:élement suivant
+@enduml

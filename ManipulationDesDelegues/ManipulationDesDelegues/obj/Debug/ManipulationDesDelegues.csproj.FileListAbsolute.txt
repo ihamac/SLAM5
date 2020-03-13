@@ -1,0 +1,7 @@
+P:\ihamac\SLAM5\ManipulationDesDelegues\ManipulationDesDelegues\bin\Debug\ManipulationDesDelegues.exe.config
+P:\ihamac\SLAM5\ManipulationDesDelegues\ManipulationDesDelegues\bin\Debug\ManipulationDesDelegues.exe
+P:\ihamac\SLAM5\ManipulationDesDelegues\ManipulationDesDelegues\bin\Debug\ManipulationDesDelegues.pdb
+P:\ihamac\SLAM5\ManipulationDesDelegues\ManipulationDesDelegues\obj\Debug\ManipulationDesDelegues.csprojAssemblyReference.cache
+P:\ihamac\SLAM5\ManipulationDesDelegues\ManipulationDesDelegues\obj\Debug\ManipulationDesDelegues.csproj.CoreCompileInputs.cache
+P:\ihamac\SLAM5\ManipulationDesDelegues\ManipulationDesDelegues\obj\Debug\ManipulationDesDelegues.exe
+P:\ihamac\SLAM5\ManipulationDesDelegues\ManipulationDesDelegues\obj\Debug\ManipulationDesDelegues.pdb

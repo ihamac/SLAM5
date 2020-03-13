@@ -1,0 +1,7 @@
+P:\ihamac\SLAM4\TPpooHeritage\TPpooHeritage\obj\Debug\TPpooHeritage.csprojAssemblyReference.cache
+P:\ihamac\SLAM4\TPpooHeritage\TPpooHeritage\obj\Debug\TPpooHeritage.csproj.CoreCompileInputs.cache
+P:\ihamac\SLAM4\TPpooHeritage\TPpooHeritage\bin\Debug\TPpooHeritage.exe.config
+P:\ihamac\SLAM4\TPpooHeritage\TPpooHeritage\bin\Debug\TPpooHeritage.exe
+P:\ihamac\SLAM4\TPpooHeritage\TPpooHeritage\bin\Debug\TPpooHeritage.pdb
+P:\ihamac\SLAM4\TPpooHeritage\TPpooHeritage\obj\Debug\TPpooHeritage.exe
+P:\ihamac\SLAM4\TPpooHeritage\TPpooHeritage\obj\Debug\TPpooHeritage.pdb

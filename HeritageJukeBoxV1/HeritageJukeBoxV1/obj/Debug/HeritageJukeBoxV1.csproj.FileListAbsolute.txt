@@ -1,0 +1,7 @@
+P:\ihamac\SLAM5\HeritageJukeBoxV1\HeritageJukeBoxV1\bin\Debug\HeritageJukeBoxV1.exe.config
+P:\ihamac\SLAM5\HeritageJukeBoxV1\HeritageJukeBoxV1\bin\Debug\HeritageJukeBoxV1.exe
+P:\ihamac\SLAM5\HeritageJukeBoxV1\HeritageJukeBoxV1\bin\Debug\HeritageJukeBoxV1.pdb
+P:\ihamac\SLAM5\HeritageJukeBoxV1\HeritageJukeBoxV1\obj\Debug\HeritageJukeBoxV1.csprojAssemblyReference.cache
+P:\ihamac\SLAM5\HeritageJukeBoxV1\HeritageJukeBoxV1\obj\Debug\HeritageJukeBoxV1.csproj.CoreCompileInputs.cache
+P:\ihamac\SLAM5\HeritageJukeBoxV1\HeritageJukeBoxV1\obj\Debug\HeritageJukeBoxV1.exe
+P:\ihamac\SLAM5\HeritageJukeBoxV1\HeritageJukeBoxV1\obj\Debug\HeritageJukeBoxV1.pdb
